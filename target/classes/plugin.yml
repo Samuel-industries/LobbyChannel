@@ -1,0 +1,9 @@
+name: LobbyChannel
+version: 1.0.2
+author: Samuel
+main: pl.samuel.lobby.Lobby
+
+commands:
+  ch:
+    description: 'Otwiera gui lobby'
+    aliases: channel
